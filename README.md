@@ -16,6 +16,7 @@ The goal is to compare their performance and determine which method yields bette
 - Compare accuracy of statistical (ARIMA) vs ML (RF, SVM) models.
 - Visualize forecasted vs actual data.
 
+
 ## 📌 Technologies
 
 - R
