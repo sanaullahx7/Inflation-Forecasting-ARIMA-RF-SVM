@@ -20,5 +20,3 @@ The goal is to compare their performance and determine which method yields bette
 ## 📌 Technologies
 - R
 - statsmodels (for ARIMA)
-
-
